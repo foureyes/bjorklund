@@ -45,5 +45,3 @@ var bjorklund = (function() {
     generate: generate
   };
 })();
-
-console.log(bjorklund.generate(pulses, steps));
