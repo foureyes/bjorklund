@@ -1,0 +1,23 @@
+{
+  "name": "bjorklund",
+  "main": "bjorklund.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/foureyes/bjorklund",
+  "authors": [
+    "<jversoza@xsmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bjorklund"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
