@@ -17,6 +17,8 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "README.md",
+    "bower.json",
     "test",
     "tests"
   ]
